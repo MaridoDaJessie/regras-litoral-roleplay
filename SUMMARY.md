@@ -25,14 +25,14 @@
   * [Programas Externos](regras-gerais/programas-externos.md)
 
 ## AÇÕES
-* [Regras Gerais de Ações](acoes/README.md)
+* [Visão Geral](acoes/README.md)
   * [Assaltos](acoes/assaltos.md)
   * [Sequestros e Reféns](acoes/sequestros-e-refens.md)
   * [Ações Policiais](acoes/acoes-policiais.md)
   * [Invasões](acoes/invasoes.md)
 
 ## ORGANIZAÇÕES
-* [Organizações](organizacoes/README.md)
+* [Visão Geral](organizacoes/README.md)
   * [Facções](organizacoes/faccoes.md)
   * [Organizações Legais](organizacoes/organizacoes-legais.md)
   * [Dominação de Território](organizacoes/dominacao-de-territorio.md)
@@ -43,13 +43,13 @@
 * [Mecânica](servicos-publicos/mecanica.md)
 
 ## VEÍCULOS
-* [Regras de Veículos](veiculos/README.md)
+* [Visão Geral](veiculos/README.md)
   * [Trânsito](veiculos/transito.md)
   * [Perseguições](veiculos/perseguicoes.md)
   * [Veículos em Ações](veiculos/veiculos-em-acoes.md)
 
 ## ADMINISTRAÇÃO
-* [Administração](administracao/README.md)
+* [Visão Geral](administracao/README.md)
   * [Denúncias](administracao/denuncias.md)
   * [Punições](administracao/punicoes.md)
   * [Tickets](administracao/tickets.md)
