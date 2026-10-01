@@ -1,6 +1,6 @@
 # Regras Litoral Roleplay
 
-![Litoral Roleplay](.gitbook/assets/capa-litoral.png)
+![Litoral Roleplay](assets/capa-litoral.png)
 
 ## Bem-vindo à Litoral Roleplay
 
