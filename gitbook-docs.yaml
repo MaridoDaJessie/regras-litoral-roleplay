@@ -2,12 +2,12 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 
 site:
   title: Regras Litoral Roleplay
-
-structure:
-  - type: space
-    key: regras-litoral
-    title: Regras Litoral Roleplay
-    path: regras
-    default: true
-    content:
-      directory: ./
+  structure:
+    - type: space
+      key: regras-litoral
+      title: Regras Litoral Roleplay
+      path: regras
+      default: true
+      content:
+        directory: ./
+        language: pt
